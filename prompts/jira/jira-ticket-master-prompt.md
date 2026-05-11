@@ -2,6 +2,12 @@
 
 Turn the notes I provide into one clear, concise Jira ticket.
 
+Use this prompt for either:
+- Creating a new Jira ticket from rough notes
+- Revising an existing Jira ticket using new notes, feedback, or added context
+
+If an existing ticket is provided, preserve the original intent and structure unless the notes clearly change the scope.
+
 Use this structure:
 
 ## Summary
@@ -31,4 +37,6 @@ Rules:
 - Use plain language.
 - Include technical detail only when it helps clarify the work.
 - Do not invent details.
-- Call out assumptions or open questions when information is missing.
+- If revising an existing ticket, keep useful existing content and only tighten, clarify, or update what changed.
+- Do not rewrite the ticket into a larger scope unless explicitly requested.
+- Call out assumptions or open questions only when needed.
