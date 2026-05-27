@@ -9,6 +9,7 @@ Use the sections below to quickly find the right prompt.
 | Category | Prompt | Use it when you need to... |
 |---|---|---|
 | Analytics | [Data Analysis Quality Audit](prompts/analytics/data-analysis-quality-audit.md) | Analyze a dataset carefully, check quality issues, separate facts from assumptions, and produce decision-ready findings. |
+| Analytics | [Databricks Notebook Handoff Summary](prompts/analytics/databricks-notebook-handoff-summary.md) | Summarize a large Databricks notebook for managers or analysts without reading every cell, focusing on purpose, flow, joins, filters, metrics, outputs, and caveats. |
 | Jira | [Jira Ticket Master Prompt](prompts/jira/jira-ticket-master-prompt.md) | Turn rough notes into a clear Jira ticket, revise an existing ticket, or convert a ticket into Jira markup. |
 | Non-work | [Dating Profile and Messages](prompts/non-work/dating-profile-and-messages.md) | Improve a dating profile, app prompt, bio, opener, or reply while keeping the tone natural and specific. |
 | Non-work | [News Analysis Source Audit](prompts/non-work/news-analysis-source-audit.md) | Understand a news topic, audit claims, compare sources, and separate facts from opinion or speculation. |
